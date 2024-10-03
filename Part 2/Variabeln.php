@@ -33,21 +33,9 @@ $test6['vollerName'] = "Max Mustermann".$test; # Ein Array mit String als Index 
  */
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/**
+ * Ausgabe der Variablen
+ */
 echo "String Variable: ".$test."\n";
 echo "Integer Variable: ".$test2."\n";
 echo "Float Variable: ".$test3."\n";
